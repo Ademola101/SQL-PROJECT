@@ -1,6 +1,6 @@
 # SQL Practice
 
-My answers to the SQL practice question of [SQLZoo](https://sqlzoo.net/wiki/SELECT_basics)
+My answers to the SQL practice questions of [SQLZoo](https://sqlzoo.net/wiki/SELECT_basics)
 
 ## Built with
 
